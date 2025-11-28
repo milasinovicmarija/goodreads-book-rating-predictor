@@ -10,6 +10,8 @@ This is an amateur project I have built that is designed to use my data from the
 goodreads-book-rating-predictor
 |-- src
     |-- main.py
+    |-- dataloader.py
+    |-- isbn-interpreter.py
 |-- Git
     |-- README.md
     |-- LICENSE
